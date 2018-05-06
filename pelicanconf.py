@@ -36,7 +36,7 @@ I18N_GETTEXT_NEWSTYLE = True
 TIMEZONE = 'Europe/Paris'
 DEFAULT_DATE_FORMAT = '%A %d %b %Y'
 I18N_TEMPLATES_LANG = 'fr_FR'
-LOCALE = 'fr_FR'
+LOCALE = 'fr'
 
 
 # logo path, needs to be stored in PATH Setting
