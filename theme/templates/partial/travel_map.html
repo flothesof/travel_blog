@@ -16,7 +16,7 @@ crossorigin=""></script>
 		var layer = new L.StamenTileLayer("watercolor");
 		mymap.addLayer(layer);
 		var destinations = [[48.85661, 2.35222, 'Paris, départ de notre voyage !'],
-							[33.89379, 35.50177, 'Beyrouth'],
+							[33.89379, 35.50177, 'Beyrouth et le Liban'],
 							[55.75582, 37.61729, 'Moscou'],
 							[59.93428, 30.33509, 'Saint-Pétersbourg'],
 							[31.23039, 121.4737, 'Shanghai'],
@@ -60,5 +60,7 @@ crossorigin=""></script>
 		}
 		
 		// doing some stuff
-		markers[0].openPopup();
+		current_location = 1;
+		markers[current_location].openPopup();
+		mymap.panTo(new L.LatLng(destinations[current_location][0], destinations[current_location][1]));
 	</script>
