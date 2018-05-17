@@ -106,3 +106,6 @@ output/
 # Pelican themes and plugins
 pelican-themes/
 pelican-plugins/
+
+# XnView stuff
+.XnViewSort
