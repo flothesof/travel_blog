@@ -24,7 +24,7 @@ IMG_0807_petit.JPG: Byblos.
 IMG_0834_petit.JPG: Byblos.
 IMG_0857_petit.JPG: Le port de Byblos.
 IMG_0879_petit.JPG: Le port de Byblos.
-IMG_0908_petit.JPG: Les cèdres de Bscharré.
-IMG_0914_petit.JPG: Les cèdres de Bscharré.
-IMG_0932_petit.JPG: Les cèdres de Bscharré.
-IMG_0942_petit.JPG: Les cèdres de Bscharré.
+IMG_0908_petit.JPG: Les cèdres de Bcharré.
+IMG_0914_petit.JPG: Les cèdres de Bcharré.
+IMG_0932_petit.JPG: Les cèdres de Bcharré.
+IMG_0942_petit.JPG: Les cèdres de Bcharré.
