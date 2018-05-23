@@ -7,33 +7,7 @@ Authors: Florian, Elida
 Summary: 
 gallery: {photo}Liban03
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"
-integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
-crossorigin=""/>
-<div id="mapid" style="height: 350px;"></div>
-
-<!-- Make sure you put this AFTER Leaflet's CSS -->
-<script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"
-integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=="
-crossorigin=""></script>
-<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
-<script type="">
-	var mymap = new L.Map('mapid', {center: new L.LatLng(15., 2.3522),
-									zoom: 2,
-									worldCopyJump: true});
-	mymap.zoomControl.setPosition('topright');
-	layer = L.tileLayer('http://a.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
-    	attribution: '© Openstreetmap France | Données &copy; <a href="https://www.openstreetmap.org/copyright">les contributeurs OpenStreetMap</a>'});
-	mymap.addLayer(layer);
-	var runLayer = omnivore.kml('/maps/Liban_article_3.kml')
-    .on('ready', function() {
-        mymap.fitBounds(runLayer.getBounds());
-        runLayer.eachLayer(function(layer) {
-           layer.bindPopup(layer.feature.properties.name);
-        });
-    })
-    .addTo(mymap);
-</script>
+{% leafletkmlmap /maps/Liban_article_3.kml %}
 
 La semaine dernière, nous avons poursuivi nos excursions depuis Beyrouth. 
 

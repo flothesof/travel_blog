@@ -45,7 +45,8 @@ LOGO = '/images/logo.svg'
 # plugin for images, tags, and more
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['liquid_tags.img', 
-		       'liquid_tags.figure', 
+		       'liquid_tags.figure',
+           'liquid_tags.leafletkmlmap', 
            'i18n_subsites', 
            'tipue_search',
            'representative_image',
