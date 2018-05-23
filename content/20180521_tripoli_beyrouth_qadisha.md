@@ -4,7 +4,7 @@ Category: Voyage
 Tags: Liban
 Slug: tripoli-beyrouth-qadisha-saida
 Authors: Florian, Elida
-Summary: 
+Summary: 2ème semaine au Liban ! 
 gallery: {photo}Liban03
 
 {% leafletkmlmap /maps/Liban_article_3.kml %}
