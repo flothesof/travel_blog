@@ -55,8 +55,8 @@ PLUGINS = ['liquid_tags.img',
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 STATIC_PATHS = ['images', 'maps']
 
-# debugging plugins
-LOAD_CONTENT_CACHE = False
+# set this to False when debugging plugins
+LOAD_CONTENT_CACHE = True
 
 # navigation and content options
 DISPLAY_PAGES_ON_MENU = True
