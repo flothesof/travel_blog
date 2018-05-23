@@ -130,12 +130,17 @@
             },
             image: {
                 titleSrc: function(item) {
-                    if (item.el.attr('caption')) {
+                    if (item.el.attr('caption') && item.el.attr('exif')) {
+                        return (item.el.attr('caption').replace(/\\n/g, '<br />') +
+                            '<small>' + item.el.attr('title') + ' - ' + item.el.attr('exif') + '</small>');
+                    }
+                    else if (item.el.attr('caption')) {
                         return (item.el.attr('caption').replace(/\\n/g, '<br />') +
                             '<small>' + item.el.attr('title') + '</small>');
                     }
-                return item.el.attr('title') + '<small>' + item.el.attr('exif') + '</small>';
-            } }
+                    return item.el.attr('title');
+                }
+            } 
         });
         </script>
     {% endif %}

@@ -1,0 +1,21 @@
+IMG_0370_resultat.JPG: Canon PowerShot G7 X Mark II - 8.8 mm F/4.0 1/320 s ISO 125
+IMG_0391_resultat.JPG: Canon PowerShot G7 X Mark II - 23.0 mm F/3.5 1/60 s ISO 125
+IMG_0407_resultat.JPG: Canon PowerShot G7 X Mark II - 8.8 mm F/4.5 1/8 s ISO 125
+IMG_0418_resultat.JPG: Canon PowerShot G7 X Mark II - 8.8 mm F/9.0 1/6 s ISO 125
+IMG_0420_resultat.JPG: Canon PowerShot G7 X Mark II - 8.8 mm F/1.8 1/1000 s ISO 800
+IMG_0435_recadrage_resultat.jpg: Canon PowerShot G7 X Mark II - 8.8 mm F/1.8 1/20 s ISO 320
+IMG_0464_resultat.JPG: Canon PowerShot G7 X Mark II - 19.4 mm F/2.5 1/20 s ISO 800
+IMG_0506_resultat.JPG: Canon PowerShot G7 X Mark II - 19.4 mm F/5.6 1/1250 s ISO 125
+IMG_0509_resultat.JPG: Canon PowerShot G7 X Mark II - 21.7 mm F/4.0 1/1000 s ISO 125
+IMG_0510_resultat.JPG: Canon PowerShot G7 X Mark II - 19.7 mm F/5.0 1/1250 s ISO 125
+IMG_0517_resultat.JPG: Canon PowerShot G7 X Mark II - 8.8 mm F/4.0 1/1250 s ISO 125
+IMG_0522_resultat.JPG: Canon PowerShot G7 X Mark II - 8.8 mm F/5.0 1/1250 s ISO 125
+IMG_0528_resultat.JPG: Canon PowerShot G7 X Mark II - 8.8 mm F/4.5 1/1250 s ISO 125
+IMG_0532_resultat.JPG: Canon PowerShot G7 X Mark II - 8.8 mm F/3.2 1/1250 s ISO 125
+IMG_0537_resultat.JPG: Canon PowerShot G7 X Mark II - 36.8 mm F/5.0 1/1250 s ISO 125
+IMG_0539_resultat.JPG: Canon PowerShot G7 X Mark II - 8.8 mm F/5.0 1/1250 s ISO 125
+IMG_0541_resultat.JPG: Canon PowerShot G7 X Mark II - 8.8 mm F/4.5 1/1250 s ISO 125
+IMG_0553_resultat.JPG: Canon PowerShot G7 X Mark II - 36.8 mm F/4.0 1/1000 s ISO 125
+IMG_0556_resultat.JPG: Canon PowerShot G7 X Mark II - 24.5 mm F/5.0 1/1250 s ISO 125
+IMG_20180504_160552_resultat.jpg: PLK-L01 - 4.6 mm F/2.0 39986/1000000 s ISO 400
+IMG_20180504_160624_resultat.jpg: PLK-L01 - 4.6 mm F/2.0 59993/1000000 s ISO 500
