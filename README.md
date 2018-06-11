@@ -1,6 +1,38 @@
 # travel_blog
 Travel blog source for my upcoming sabbatical.
 
+# How to build this blog
+
+## Install dependencies
+
+I think at least this:
+```shell
+pip install pelican piexif PIL
+```
+
+## Build the blog
+
+Either in debug mode:
+
+```shell
+pelican -s pelicanconf.py
+```
+
+Or in publishing mode (with all the right URLs):
+
+```shell
+pelican -s publishconf.py
+```
+
+The result can then be served by a HTTP server from the `output` directory.
+
+In debug mode, I use this with Python > 3:
+
+```shell
+cd output
+python -m http.server
+```
+
 
 # Notes
 
