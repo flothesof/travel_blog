@@ -183,6 +183,7 @@ h3, h4, h5, h6 {
   clear: both;
 }
 
-.gallery > img {
+div.gallery > a > img {
+  width: 49%;
   padding-bottom: 4px;
 }
