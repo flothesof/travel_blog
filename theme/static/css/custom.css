@@ -184,6 +184,13 @@ h3, h4, h5, h6 {
 }
 
 div.gallery > a > img {
-  width: 49%;
-  padding-bottom: 4px;
+    width: 32%;
+    padding-bottom: 4px;
+} 
+
+@media screen and (max-width: 768px) {
+  div.gallery > a > img {
+    width: 49%;
+    padding-bottom: 4px;
+  }
 }
