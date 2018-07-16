@@ -103,7 +103,7 @@ def read_notes(filename, msg=None):
                 m = line.split(':', 1)
                 if len(m) > 1:
                     pic = m[0].strip()
-                    note = m[1].strip()
+                    note = m[1].strip().replace('"', "&quot;")
                     if pic and note:
                         notes[pic] = note
                 else:
