@@ -66,7 +66,7 @@ DISPLAY_TAGS_ON_MENU = False
 
 MENUITEMS = [
   ('Archive', 'archives.html'),
-  ('Flux RSS', 'feeds/all.atom.xml')
+  ('Flux RSS', 'feeds/all.rss.xml')
 ]
 
 # this generate all main pages from the site, such as the index
