@@ -25,6 +25,7 @@ crossorigin=""></script>
 							[35.01163, 135.76802, 'Kyoto<br><a href="/tag/japon.html">#Japon</a>'],
 							[34.69373, 135.50216, 'Osaka<br><a href="/tag/japon.html">#Japon</a>'],
 							[-33.86881, 151.20929, 'Sydney<br><a href="/tag/australie.html">#Australie</a>'],
+							[-38.855700, 143.533050, 'Great Ocean Road<br><a href="/tag/australie.html">#Australie</a>']
 							[-17.53669, -149.56958, 'Papeete'],
 							[-27.08898, -109.35452, 'Île de Pâques'],
 							[-33.43783, -70.65044, 'Santiago'],
@@ -42,7 +43,7 @@ crossorigin=""></script>
 		for (var i = 0; i < destinations.length; i++){
 			if (i != destinations.length - 1){
 				// normal lines 
-				if (destinations[i][2] != 'Sydney') {
+				if (destinations[i][0] != -38.855700) {
 					var polyline = L.polyline([[destinations[i][0], destinations[i][1]],
 										[destinations[i+1][0], destinations[i+1][1]]]).addTo(mymap);
 				}

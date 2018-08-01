@@ -5,7 +5,6 @@ Tags: Australie
 Slug: arrivee-australie
 Authors: Elida, Florian
 Summary: Nous voilà passés de l'autre côté de l'Equateur. 
-gallery: 
 
 Changement d'hémisphère, de saison, perte de plus de 20 degrés et de 4 heures d'ensoleillement par jour, shorts rangés, de l'anglais partout autour de nous (mais avec un accent bizarre quand même) : pas de doute, on est bien arrivés en Australie !
 Et on a été accueillis royalement par Svenja et Rémi, expatriés dans le pays du kangourou depuis de nombreuses années, qui nous ont ouvert leurs portes à Sydney.
