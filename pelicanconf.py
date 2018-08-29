@@ -50,7 +50,8 @@ PLUGINS = ['liquid_tags.img',
            'i18n_subsites', 
            'tipue_search',
            'representative_image',
-           'photos']
+           'photos',
+           'neighbors']
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 STATIC_PATHS = ['images', 'maps', 'videos']

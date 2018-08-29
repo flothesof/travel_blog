@@ -29,18 +29,40 @@
 
         <div class="animate-box" data-animate-effect="fadeInLeft">
             <p class="animate-box" data-animate-effect="fadeInLeft">{{ article.content }}</p>
+            
             {% if article.photo_gallery %}
-<div class="gallery">
-        {% for title, gallery in article.photo_gallery %}
-            <h1>{{ title }}</h1>
-                {% for name, photo, thumb, exif, caption in gallery %}
-                        <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
-                {% endfor %}
-        {% endfor %}
-</div>
-{% endif %}
+                <div class="gallery">
+                    {% for title, gallery in article.photo_gallery %}
+                        <h1>{{ title }}</h1>
+                            {% for name, photo, thumb, exif, caption in gallery %}
+                                    <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
+                            {% endfor %}
+                    {% endfor %}
+                </div>
+            {% endif %}
+        <p class="animate-box" data-animate-effect="fadeInLeft">
+            
+            <ul>
+             {% if article.prev_article %}
+                 <li> Billet précédent : 
+                     <a href="{{ SITEURL }}/{{ article.prev_article.url}}">
+                         {{ article.prev_article.title }}
+                     </a>
+                 </li>
+             {% endif %}
+             {% if article.next_article %}
+                 <li> Billet suivant : 
+                     <a href="{{ SITEURL }}/{{ article.next_article.url}}">
+                         {{ article.next_article.title }}
+                     </a>
+                 </li>
+             {% endif %}
+            </ul>
+        </p>
         </div>
     </div>
+
+ 
 
     {% include 'partial/disqus.html' %}
 
