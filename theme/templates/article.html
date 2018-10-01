@@ -30,6 +30,12 @@
         <div class="animate-box" data-animate-effect="fadeInLeft">
             <p class="animate-box" data-animate-effect="fadeInLeft">{{ article.content }}</p>
             
+            <i>
+            {% for author in article.authors %}
+                {{ author }} {% if not loop.last %} et {% endif %}
+            {% endfor %} 
+            </i>
+
             {% if article.photo_gallery %}
                 <div class="gallery">
                     {% for title, gallery in article.photo_gallery %}
