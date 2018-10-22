@@ -93,7 +93,8 @@ def initialized(pelican):
 
 
 def read_notes(filename, msg=None):
-    notes = {}
+    from collections import OrderedDict
+    notes = OrderedDict()
     try:
         with pelican_open(filename) as text:
             for line in text.splitlines():
@@ -485,10 +486,13 @@ def process_gallery(generator, content, location):
                                msg='photos: No EXIF for gallery')
             captions = read_notes(os.path.join(dir_gallery, 'captions.txt'), msg='photos: No captions for gallery')
             blacklist = read_notes(os.path.join(dir_gallery, 'blacklist.txt'), msg='photos: No blacklist for gallery')
+            sort_order = read_notes(os.path.join(dir_gallery, 'sort_order.txt'), msg='photos: No ordering found for gallery')
+            if sort_order is None:
+                sort_order = sorted(os.listdir(dir_gallery))
             content_gallery = []
 
             title = gallery['title']
-            for pic in sorted(os.listdir(dir_gallery)):
+            for pic in sort_order:
                 if pic.startswith('.'):
                     continue
                 if pic.endswith('.txt'):
