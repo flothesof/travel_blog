@@ -487,7 +487,7 @@ def process_gallery(generator, content, location):
             captions = read_notes(os.path.join(dir_gallery, 'captions.txt'), msg='photos: No captions for gallery')
             blacklist = read_notes(os.path.join(dir_gallery, 'blacklist.txt'), msg='photos: No blacklist for gallery')
             sort_order = read_notes(os.path.join(dir_gallery, 'sort_order.txt'), msg='photos: No ordering found for gallery')
-            if sort_order is None:
+            if not len(sort_order) > 0:
                 sort_order = sorted(os.listdir(dir_gallery))
             content_gallery = []
 
