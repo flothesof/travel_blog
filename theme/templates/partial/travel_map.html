@@ -36,7 +36,8 @@ crossorigin=""></script>
 							[10.421809, -75.553331, 'Carthagène des Indes<br><a href="/tag/colombie.html">#Colombie</a>'],
 							[19.4326, -99.1332, 'Mexico<br><a href="/tag/mexique.html">#Mexique</a>'],
 							[49.28272, -123.12073, 'Vancouver<br><a href="/tag/canada.html">#Canada</a>'],
-							[45.50168, -73.56725, 'Québec<br><a href="/tag/canada.html">#Canada</a>']];
+							[46.816667, -71.216667, 'Québec<br><a href="/tag/canada.html">#Canada</a>'],
+							[45.416667, -75.683333, 'Ottawa<br><a href="/tag/canada.html">#Canada</a>']];
 		var markers = [];
 		destinations.forEach(function(destination) { 
 				var marker = L.marker([destination[0], destination[1]]).addTo(mymap);
@@ -63,8 +64,8 @@ crossorigin=""></script>
 			}
 		}
 		
-		// doing some stuff
-		current_location = 20;
+		// setting the right location and panning the map
+		current_location = 22;
 		markers[current_location].openPopup();
 		mymap.panTo(new L.LatLng(destinations[current_location][0], destinations[current_location][1]));
 	</script>
