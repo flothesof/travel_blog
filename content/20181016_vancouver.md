@@ -17,7 +17,7 @@ Voici une petite carte pour mieux repérer les lieux :
 
 {% figure responsive-image /images/20181016_granville.JPG Notre hôte de choc, Rola, et nous à Granville Island. %}
 
-Mention spéciale également à l'Université de Colombie Britannique, située sur un très beau territoire boisé à l'ouest de la ville. Nous avons suivi la visite guidée destinée aux futurs étudiants et avons été bluffé par la qualité de l'accueil. Ça donne vraiment envie de retourner aux études ! 
+Mention spéciale également à l'Université de Colombie Britannique (UBC), située sur un très beau territoire boisé à l'ouest de la ville. Nous avons suivi la visite guidée destinée aux futurs étudiants et avons été bluffé par la qualité de l'accueil. Ça donne vraiment envie de retourner aux études ! 
 
 {% figure responsive-image /images/20181016_ubc.JPG Et en plus, l'UBC dispose d'un formidable musée d'anthropologie où l'on peut admirer ces totems typiques de la côte ouest. %}
 
