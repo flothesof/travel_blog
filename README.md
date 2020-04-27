@@ -16,6 +16,12 @@ I think at least this:
 pip install "pelican<4" markdown piexif pillow
 ```
 
+## Compile translations
+```shell
+cd theme
+./translation.sh compile
+```
+
 ## Build the blog
 
 Either in local editing mode:
