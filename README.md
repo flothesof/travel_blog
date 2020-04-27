@@ -13,7 +13,7 @@ git clone https://github.com/flothesof/travel_blog.git
 
 I think at least this:
 ```shell
-pip install pelican piexif PIL
+pip install pelican piexif pillow
 ```
 
 ## Build the blog
