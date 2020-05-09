@@ -3,36 +3,47 @@ Travel blog source for my upcoming sabbatical.
 
 # How to build this blog
 
+## Clone the source
+
+```shell
+git clone https://github.com/flothesof/travel_blog.git
+```
+
 ## Install dependencies
 
 I think at least this:
 ```shell
-pip install pelican piexif PIL
+pip install "pelican<4" markdown piexif pillow
+```
+
+## Compile translations
+```shell
+cd theme
+./translation.sh compile
 ```
 
 ## Build the blog
 
-Either in debug mode:
+Either in local editing mode:
 
 ```shell
 pelican -s pelicanconf.py
 ```
 
-Or in publishing mode (with all the right URLs):
+Or in publishing mode (with all the links pointing to the full website URLs):
 
 ```shell
 pelican -s publishconf.py
 ```
+## Serving the content for previewing locally
 
-The result can then be served by a HTTP server from the `output` directory.
+The result can be served by a HTTP server from the `output` directory.
 
 In debug mode, I use this with Python > 3:
 
 ```shell
-cd output
-python -m http.server
+python -m http.server --directory output
 ```
-
 
 # Notes
 
