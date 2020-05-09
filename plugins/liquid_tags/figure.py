@@ -48,7 +48,13 @@ def figure(preprocessor, tag, markup):
         caption_attrs = {}    
         caption_attrs['caption'] = attrs.pop('caption')    
         attrs['alt'] = caption_attrs['caption']
-                
+    
+    # removing first / it it exists
+    if 'src' in attrs:
+        if attrs['src'].startswith('/'):
+            attrs['src'] = attrs['src'][1:]  
+    
+
     # Return the formatted text
     img_tag = "<img {0}>".format(' '.join('{0}="{1}"'.format(key, val)
                                        for (key, val) in six.iteritems(attrs)))

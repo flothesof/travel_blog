@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }}{% endblock %}
+{% block meta %}
+    <meta name="author" content="{{ article.author.name }}" />
+    <meta name="description" content="{{ article.summary|striptags }}" />
+    <meta name="keywords" content="{{ article.tags|join(', ') }}">
+    {% include "partial/og_tags.html" %}
+{% endblock %}
+
+{% block content %}
+
+    <div class="fh5co-narrow-content article-content">
+        <h1>{{ article.title }}</h1>
+        <div>
+            {{ article.locale_date }}
+        </div>
+        <div class="animate-box" data-animate-effect="fadeInLeft">
+            <p class="animate-box" data-animate-effect="fadeInLeft">{{ article.content }}</p>
+            
+            <i>
+            {% for author in article.authors %}
+                {{ author }} {% if not loop.last %} et {% endif %}
+            {% endfor %} 
+            </i>
+
+        </div>
+    </div>
+
+{% endblock %}

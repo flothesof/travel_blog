@@ -109,3 +109,9 @@ pelican-plugins/
 
 # XnView stuff
 .XnViewSort
+
+# macOS stuff
+.DS_Store
+
+# output of tex generation 
+output-tex/
