@@ -122,5 +122,6 @@ blog-book/*.log
 blog-book/*.bbl
 blog-book/*.toc
 blog-book/*.synctex.gz
+blog-book/*.out
 blog-book/book.pdf
 
