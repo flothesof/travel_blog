@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="utf-8"?>
+<disqus xmlns="http://disqus.com" 
+    xmlns:dsq="http://disqus.com/disqus-internals" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://disqus.com/api/schemas/1.0/disqus.xsd http://disqus.com/api/schemas/1.0/disqus-internals.xsd">
+    <category dsq:id="7618555">
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <title>General</title>
+        <isDefault>true</isDefault>
+    </category>
+    <thread dsq:id="6641311775">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/bonjour-monde.html</link>
+        <title>Bonjour, monde !</title>
+        <message />
+        <createdAt>2018-04-29T09:37:30Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6645732233">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/photographie-en-voyage.html</link>
+        <title>La photographie en voyage, un métier ?</title>
+        <message />
+        <createdAt>2018-05-01T16:55:11Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6650763697">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/pont-Occident-Orient.html</link>
+        <title>Jour J : faire le pont entre l'Occident et l'Orient</title>
+        <message />
+        <createdAt>2018-05-04T08:25:28Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6654637667">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/bonjour-du-village.html</link>
+        <title>Le bonjour du village !</title>
+        <message />
+        <createdAt>2018-05-06T11:09:55Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6676813876">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/elections-cedres.html</link>
+        <title>Des élections...à la forêt des Cèdres</title>
+        <message />
+        <createdAt>2018-05-17T20:31:36Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6684882319">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/tripoli-beyrouth-qadisha-saida.html</link>
+        <title>Tripoli, Beyrouth, Qadisha, Saïda</title>
+        <message />
+        <createdAt>2018-05-22T10:38:16Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6687556570">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/manger-au-liban.html</link>
+        <title>Manger au Liban</title>
+        <message />
+        <createdAt>2018-05-23T18:30:40Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6695191914">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/arrivee-en-russie.html</link>
+        <title>Prolétaires de tous les pays, unissez-vous !</title>
+        <message />
+        <createdAt>2018-05-27T20:40:45Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6703528651">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/au-revoir-liban.html</link>
+        <title>Baalbeck &amp; au revoir, Liban !</title>
+        <message />
+        <createdAt>2018-05-31T20:45:50Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6708926675">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/crapahutages-moscova.html</link>
+        <title>Crapahutages sur la Moscova</title>
+        <message />
+        <createdAt>2018-06-03T14:27:59Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6715405681">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/saint-petersbourg.html</link>
+        <title>Saint-Pétersbourg, berceau de la révolution</title>
+        <message />
+        <createdAt>2018-06-06T16:09:35Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6724949730">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/au-revoir-russie.html</link>
+        <title>До свидания, Russie !</title>
+        <message />
+        <createdAt>2018-06-11T13:39:41Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6727164403">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/empire-du-milieu.html</link>
+        <title>Arrivée dans l'empire du milieu</title>
+        <message />
+        <createdAt>2018-06-12T11:58:08Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6741046420">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/chine-pas-de-course.html</link>
+        <title>La Chine au pas de course</title>
+        <message />
+        <createdAt>2018-06-19T10:38:45Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6753644651">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/impressions-chinoises.html</link>
+        <title>Deuxième semaine et impressions (à l'encre) de Chine</title>
+        <message />
+        <createdAt>2018-06-25T13:52:20Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6753759827">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/konnichiwa.html</link>
+        <title>こんにちは, konnichiwa !</title>
+        <message />
+        <createdAt>2018-06-25T14:52:05Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6782471953">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/quelques-jours-kyushu.html</link>
+        <title>Quelques jours à Kyushu</title>
+        <message />
+        <createdAt>2018-07-09T13:42:48Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6791705836">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/tradition-gratte-ciels.html</link>
+        <title>Grand-écart entre tradition et gratte-ciels.</title>
+        <message />
+        <createdAt>2018-07-14T01:49:01Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6798491884">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/kyoto-hiroshima.html</link>
+        <title>Kyoto, autour de Kyoto et Hiroshima.</title>
+        <message />
+        <createdAt>2018-07-17T13:13:01Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6810510720">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/nagano-osaka.html</link>
+        <title>Des alpes japonaises de Nagano à la brûlante Osaka</title>
+        <message />
+        <createdAt>2018-07-23T01:36:54Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6813026808">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/arrivee-australie.html</link>
+        <title>Arrivée au pays des mille oiseaux</title>
+        <message />
+        <createdAt>2018-07-24T00:30:13Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6820424675">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/une-semaine-sydney.html</link>
+        <title>On n'a jamais été autant à la plage en hiver</title>
+        <message />
+        <createdAt>2018-07-27T12:36:08Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6827540548">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/great-ocean-road.html</link>
+        <title>En route sur la Great Ocean Road</title>
+        <message />
+        <createdAt>2018-07-31T12:56:20Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6846800535">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/animaux-australie.html</link>
+        <title>Des kangourous, mais pas que !</title>
+        <message />
+        <createdAt>2018-08-10T20:09:39Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6858178959">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/polynesie-tahiti.html</link>
+        <title>Premiers Pk et premières îles en Polynésie Française</title>
+        <message />
+        <createdAt>2018-08-17T04:23:32Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6880738807">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/mysteres-rapa-nui.html</link>
+        <title>A la découverte des mystères de Rapa Nui</title>
+        <message />
+        <createdAt>2018-08-29T08:23:52Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6880738829">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/polynesie-iles-sous-le-vent.html</link>
+        <title>Les Îles-Sous-Le-Vent, ça secoue !</title>
+        <message />
+        <createdAt>2018-08-29T08:23:54Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6912768754">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/santiago-desert-atacama.html</link>
+        <title>De Santiago au désert de l'Atacama</title>
+        <message />
+        <createdAt>2018-09-15T04:35:05Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6924405594">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/perou-machu-picchu.html</link>
+        <title>Semaine haute en couleurs au Pérou !</title>
+        <message />
+        <createdAt>2018-09-21T12:32:09Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6943722527">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/carthagene-des-indes.html</link>
+        <title>Détente à Carthagène-des-Indes</title>
+        <message />
+        <createdAt>2018-10-01T18:12:12Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6989191751">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/excursions-mexico.html</link>
+        <title>La remontée du temps mexicain</title>
+        <message />
+        <createdAt>2018-10-23T04:05:51Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="6989191928">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/immersion-culturelle-mexico.html</link>
+        <title>Immersion culturelle à Mexico City</title>
+        <message />
+        <createdAt>2018-10-23T04:06:00Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="7000727802">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/vancouver-colombie-britannique.html</link>
+        <title>Vancouver, entre mer et montagne</title>
+        <message />
+        <createdAt>2018-10-27T21:59:46Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <thread dsq:id="7567948081">
+        <id />
+        <forum>le-blog-voyage-delida-et-florian</forum>
+        <category dsq:id="7618555" />
+        <link>http://www.lerestepeutattendre.fr/quebec-retour-origines.html</link>
+        <title>Retour aux origines à Québec</title>
+        <message />
+        <createdAt>2019-08-03T10:24:33Z</createdAt>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <isClosed>false</isClosed>
+        <isDeleted>false</isDeleted>
+    </thread>
+    <post dsq:id="3882847907">
+        <id />
+        <message><![CDATA[<p>Ça a l'air de bien fonctionner mais peut-être que tu auras envie de modifier ton CSS pour centrer les photos et les espacer légèrement :D Tu pourrais faire un article sur le CSS ensuite :)</p>]]></message>
+        <createdAt>2018-05-02T16:40:25Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6645732233" />
+    </post>
+    <post dsq:id="3883874178">
+        <id />
+        <message><![CDATA[<p>Tu trouveras peut-être que la photographie, c'est comme l'optimisation : quand on optimise dans un ensemble limité de solutions, l'optimum est facile à atteindre, mais quand on passe dans un ensemble plus vaste et plus proche des optima globaux (un meilleur appareil photo), le problème est plus difficile... C'est un équilibre à améliorer entre qualité d'approximation et performance d'estimation, quoi.</p>]]></message>
+        <createdAt>2018-05-03T08:54:38Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>ZRC</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_fZ7FWf22E3</username>
+        </author>
+        <thread dsq:id="6645732233" />
+    </post>
+    <post dsq:id="3884157132">
+        <id />
+        <message><![CDATA[<p>Un conseil : laissez tomber les citations de citations d'obscurs ornithologues qui n'intéressent que l'élite germanopratine dont Florian est la coqueluche. Si vous voulez qu'on lise votre blog avec plus d'entrain que les mails de Sarah Dobigny sur l'avancement des travaux à nanoInnov, donnez-nous votre opinion sur le hezbollah ou parlez-nous de l'évolution du marché de l'emploi sur l'île de Paques... Soyez disruptifs...</p>]]></message>
+        <createdAt>2018-05-03T13:59:56Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>kje</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_HqY0Tvtiht</username>
+        </author>
+        <thread dsq:id="6641311775" />
+    </post>
+    <post dsq:id="3885383220">
+        <id />
+        <message><![CDATA[<p>Salut Thibaud ! Déjà, merci pour le commentaire. Bravo, tu es le premier ! Le CSS, c'est un sujet sensible, mais j'ai demandé à une experte de nous prêter main forte pour améliorer ça. L'idée de faire un article sur "comment ce blog est fait" me trotte dans la tête, mais je vais sans doute attendre encore pas mal de temps avant de l'écrire. A bientôt !</p>]]></message>
+        <createdAt>2018-05-04T08:37:24Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6645732233" />
+        <parent dsq:id="3882847907" />
+    </post>
+    <post dsq:id="3885387584">
+        <id />
+        <message><![CDATA[<p>Salut ZRC. Tu inaugures avec brio les commentaires à base d'analogies mathématiques ! Je commence à voir la photographie d'un autre œil en tout cas. Maintenant, à l'attaque de ce nouvel espace...</p>]]></message>
+        <createdAt>2018-05-04T08:43:05Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6645732233" />
+        <parent dsq:id="3883874178" />
+    </post>
+    <post dsq:id="3885390681">
+        <id />
+        <message><![CDATA[<p>Cher KJE, merci pour cet encouragement qui va sans aucun doute nous tirer vers le haut (pas comme les ornithologues du XIIème siècle hein, tu as bien raison). Etant donné qu'on vient juste d'arriver au Liban, je ne peux pas encore te parler avec confiance du Hezbollah, mais les élections de ce week-end nous donneront, je l'espère, de quoi assouvir tes envies de news disruptives. On te tient au jus.</p>]]></message>
+        <createdAt>2018-05-04T08:48:27Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6641311775" />
+        <parent dsq:id="3884157132" />
+    </post>
+    <post dsq:id="3885537585">
+        <id />
+        <message><![CDATA[<p>Qu'est-ce que l'objet bleu devant Elida ? Ne serait-ce pas un gros sac de cabine où elle a pu caser les grammes qui manquent ? :D</p>]]></message>
+        <createdAt>2018-05-04T12:06:09Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6650763697" />
+    </post>
+    <post dsq:id="3886916324">
+        <id />
+        <message><![CDATA[<p>j'espère qu'elle a donné 100g à Flo surtout ;)</p>]]></message>
+        <createdAt>2018-05-05T11:09:02Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Jojo</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_TiuDALokJP</username>
+        </author>
+        <thread dsq:id="6650763697" />
+        <parent dsq:id="3885537585" />
+    </post>
+    <post dsq:id="3887485832">
+        <id />
+        <message><![CDATA[<p>Thibaud, quel œil de lynx ! C'est vrai qu'on a un peu exagéré, car nos petits sacs pesaient bien cinq kilos supplémentaires (Elida me souffle qu'on emportait aussi des cadeaux... dont on va se délester à la première étape).</p>]]></message>
+        <createdAt>2018-05-05T20:22:39Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6650763697" />
+        <parent dsq:id="3885537585" />
+    </post>
+    <post dsq:id="3887488907">
+        <id />
+        <message><![CDATA[<p>Oui, mais c'est elle qui porte l'ordinateur :) en vrai, on était surpris du fait que les gros sacs ne faisaient que 12 kilos !</p>]]></message>
+        <createdAt>2018-05-05T20:25:33Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6650763697" />
+        <parent dsq:id="3886916324" />
+    </post>
+    <post dsq:id="3890725203">
+        <id />
+        <message><![CDATA[<p>Bonjour depuis la Provence où la météo reste bien variable et fraiche... mois de mai hyper calme avec tous nos ponts et viaducs...<br>Merci pour votre reportage libanais, au pays des cèdres majestueux et millénaires.<br>Irez-vous à Byblos ? Ruines entremêlées sur 2000 ans d'histoire : des phéniciens aux croisés puis aux temps modernes !<br>Vous êtes au cœur de l'origine de notre civilisation méditerranéenne :  le barycentre (on reste dans les maths ?) de la culture mondiale actuelle (hors Chine : chaque chose en son temps).<br>A très bientôt.<br>François</p>]]></message>
+        <createdAt>2018-05-08T06:57:05Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>François Baqué</name>
+            <isAnonymous>false</isAnonymous>
+            <username>franoisbaqu</username>
+        </author>
+        <thread dsq:id="6654637667" />
+    </post>
+    <post dsq:id="3892470451">
+        <id />
+        <message><![CDATA[<p>Bonjour François, merci pour ton message. Nous sommes passés en coup de vent à Byblos, mais nous y retournerons sans doute. Effectivement, les traces historiques sont très nombreuses au Liban et elles s'étalent sur des centaines et des centaines d'années, à ne plus savoir quelle époque on est en train de regarder. Concernant la météo, elle s'est nettement rafraîchie dans la vallée de la Bekaa depuis les lignes écrites ci-dessus...<br>A bientôt,<br>Florian</p>]]></message>
+        <createdAt>2018-05-09T09:43:34Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6654637667" />
+        <parent dsq:id="3890725203" />
+    </post>
+    <post dsq:id="3913331360">
+        <id />
+        <message><![CDATA[<p>T'as pas une petite vidéo de Flo au volant ? :D</p>]]></message>
+        <createdAt>2018-05-23T07:56:15Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6676813876" />
+    </post>
+    <post dsq:id="3913333362">
+        <id />
+        <message><![CDATA[<p>Ah ba finalement on prend le bus ! :)</p>]]></message>
+        <createdAt>2018-05-23T07:59:49Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6684882319" />
+    </post>
+    <post dsq:id="3915497320">
+        <id />
+        <message><![CDATA[<p>C'est le genre d'article qui me donne envie de partir :D<br>Merci pour les légendes ! N'oubliez pas quand même qu'on a des fraises et des pommes chez nous. On dirait la documentation d'Alex sur un constructeur : "// Constructor."<br>(Ceci est un test pour voir si l'intéressé parcourt votre blog :p)</p>]]></message>
+        <createdAt>2018-05-24T16:06:13Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6687556570" />
+    </post>
+    <post dsq:id="3915842804">
+        <id />
+        <message><![CDATA[<p>Je te trouve ça sous peu ;)</p>]]></message>
+        <createdAt>2018-05-24T19:39:31Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Elida</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_65lTcRqujN</username>
+        </author>
+        <thread dsq:id="6676813876" />
+        <parent dsq:id="3913331360" />
+    </post>
+    <post dsq:id="3917870260">
+        <id />
+        <message><![CDATA[<p>Haha c'est le genre de réaction qu'on espérait provoquer ;)<br>On oublie pas qu'on a des pommes et des fraises en France, c'est juste qu'on n'arrive pas à ne pas être exhaustifs dans notre collecte de photos ^^<br>Pour l'instant je n'ai pas encore eu de commentaire de la part d'Alex, mais j'imagine que ça ne va pas tarder...</p>]]></message>
+        <createdAt>2018-05-26T09:55:05Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6687556570" />
+        <parent dsq:id="3915497320" />
+    </post>
+    <post dsq:id="3917876768">
+        <id />
+        <message><![CDATA[<p>Et pas n'importe quel bus ! Dire qu'on est arrivés en klaxonnant le bus sur l'autoroute pour qu'il s'arrête et qu'il nous laisse monter à bord. #seulementAuLiban ? (je n'imagine pas ça arriver en France où j'ai vu des bus partir alors même que j'arrivais en courant derrière eux)</p>]]></message>
+        <createdAt>2018-05-26T09:57:44Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6684882319" />
+        <parent dsq:id="3913333362" />
+    </post>
+    <post dsq:id="3921283649">
+        <id />
+        <message><![CDATA[<p>Du coup, une préférence entre le taboulé de la cantine 3 et celui que tu manges au Liban ?</p>]]></message>
+        <createdAt>2018-05-28T21:09:01Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>kje</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_HqY0Tvtiht</username>
+        </author>
+        <thread dsq:id="6687556570" />
+        <parent dsq:id="3917870260" />
+    </post>
+    <post dsq:id="3922508739">
+        <id />
+        <message><![CDATA[<p>Dis-toi que bientôt des milliers de fan de foot vont se dire exactement la même chose ^^ Ce qui est très bon pour la Russie. Perso ça me fait plaisir !</p>]]></message>
+        <createdAt>2018-05-29T19:08:31Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6695191914" />
+    </post>
+    <post dsq:id="3922772477">
+        <id />
+        <message><![CDATA[<p><a href="https://uploads.disquscdn.com/images/d3d52c79db3c778c55746cf8982dd515cea75ba04db4e5912de5a2f20df6195c.png" rel="nofollow noopener" title="https://uploads.disquscdn.com/images/d3d52c79db3c778c55746cf8982dd515cea75ba04db4e5912de5a2f20df6195c.png">https://uploads.disquscdn.c...</a></p>]]></message>
+        <createdAt>2018-05-29T21:59:54Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Michael</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_DeLVGY7gQO</username>
+        </author>
+        <thread dsq:id="6645732233" />
+    </post>
+    <post dsq:id="3923243489">
+        <id />
+        <message><![CDATA[<p>On t'as préparé ça et mis à la fin de l'article ^^</p>]]></message>
+        <createdAt>2018-05-30T08:24:31Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6676813876" />
+        <parent dsq:id="3913331360" />
+    </post>
+    <post dsq:id="3923288683">
+        <id />
+        <message><![CDATA[<p>PARFAIT ! =D</p>]]></message>
+        <createdAt>2018-05-30T09:41:09Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6676813876" />
+        <parent dsq:id="3923243489" />
+    </post>
+    <post dsq:id="3924773226">
+        <id />
+        <message><![CDATA[<p>Excellent Flo ! Ça fait saliver tout ça :) Ça me rappel le classique "dîner chez les potes indiens" : "Allez on passe à table ?"; "Quoi ? Je croyais qu'on avait fini là", et "hé non, c'était l'apéritif !"... Je me fait avoir à chaque fois.</p>]]></message>
+        <createdAt>2018-05-31T10:15:33Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>pythux</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pythux</username>
+        </author>
+        <thread dsq:id="6687556570" />
+    </post>
+    <post dsq:id="3924774157">
+        <id />
+        <message><![CDATA[<p>Arriver en courant vers le Bus, c'est déjà avoir perdu Flo :P Tu sais ce qui va se passer ensuite. A Paris les chauffeurs de bus ne sont pas tri polis !</p>]]></message>
+        <createdAt>2018-05-31T10:16:52Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>pythux</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pythux</username>
+        </author>
+        <thread dsq:id="6684882319" />
+        <parent dsq:id="3917876768" />
+    </post>
+    <post dsq:id="3924775405">
+        <id />
+        <message><![CDATA[<p>Pourquoi les fans de foot se diraient "prolétaires unissez-vous" ? :p Le foot n'intéresse pas que les prolétaires !!</p>]]></message>
+        <createdAt>2018-05-31T10:18:42Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>pythux</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pythux</username>
+        </author>
+        <thread dsq:id="6695191914" />
+        <parent dsq:id="3922508739" />
+    </post>
+    <post dsq:id="3924779767">
+        <id />
+        <message><![CDATA[<p>On ne m’ôtera pas de l'idée, que tout ceci date de l'époque où ils con-solidaient une certaine idéologie en con-struisant des statues partout. La fameuse con-stellation de la grande URSS.</p>]]></message>
+        <createdAt>2018-05-31T10:25:21Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>pythux</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pythux</username>
+        </author>
+        <thread dsq:id="6695191914" />
+    </post>
+    <post dsq:id="3924780816">
+        <id />
+        <message><![CDATA[<p>Je me demande pourquoi Flo est surpris quand les gens doublent par la droite. C'est pas comme ça qu'on fait à Paris aussi ? :p</p>]]></message>
+        <createdAt>2018-05-31T10:26:57Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>pythux</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pythux</username>
+        </author>
+        <thread dsq:id="6676813876" />
+        <parent dsq:id="3915842804" />
+    </post>
+    <post dsq:id="3924821524">
+        <id />
+        <message><![CDATA[<p>Flo ne conduit pas à Paris ;)</p>]]></message>
+        <createdAt>2018-05-31T11:21:07Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Elida</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_65lTcRqujN</username>
+        </author>
+        <thread dsq:id="6676813876" />
+        <parent dsq:id="3924780816" />
+    </post>
+    <post dsq:id="3926183189">
+        <id />
+        <message><![CDATA[<p>Rien à voir ! Mais j'imagine que tu connaissais déjà la réponse à cette question... Pour ceux qui n'ont pas été confronté à cette expérience : "taboulé" est un terme qui recouvre un grand nombre de plats très différents les uns des autres. Il faudrait sans doute exiger un adjectif obligatoire quand on l'utilise pour éviter les ambiguïtés.</p>]]></message>
+        <createdAt>2018-06-01T08:51:27Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6687556570" />
+        <parent dsq:id="3921283649" />
+    </post>
+    <post dsq:id="3926184447">
+        <id />
+        <message><![CDATA[<p>Je ne savais pas que la gastronomie indienne avait ce point commun avec la libanaise. C'est ça de faire des plats apéritifs trop bons...</p>]]></message>
+        <createdAt>2018-06-01T08:53:47Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6687556570" />
+        <parent dsq:id="3924773226" />
+    </post>
+    <post dsq:id="3926185176">
+        <id />
+        <message><![CDATA[<p>Haha. On attend des commentaires "photos" de ta part sous chaque article maintenant ! :-)</p>]]></message>
+        <createdAt>2018-06-01T08:55:11Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6645732233" />
+        <parent dsq:id="3922772477" />
+    </post>
+    <post dsq:id="3926188568">
+        <id />
+        <message><![CDATA[<p>Haha ben c'est sûr que ça n'a rien à voir avec Paris. C'est bien plus pratique comme ça :-D</p>]]></message>
+        <createdAt>2018-06-01T09:01:16Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6684882319" />
+        <parent dsq:id="3924774157" />
+    </post>
+    <post dsq:id="3928844372">
+        <id />
+        <message><![CDATA[<p>Moi je dis que la statue de la photo 23 ne repose pas exactement sur l'eau... Flo aurait pu citer un texte qu'on a vu en cours de russe, qui disait que la vie était dure et qu'on ne souriait pas pour rien en Russie.</p>]]></message>
+        <createdAt>2018-06-03T15:48:24Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>ZRC</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_fZ7FWf22E3</username>
+        </author>
+        <thread dsq:id="6708926675" />
+    </post>
+    <post dsq:id="3928984636">
+        <id />
+        <message><![CDATA[<p>C'est vrai que la photo 23 est chelou.<br>J'avais lu à peu près la même chose sur les sourires en Russie : on ne sourit pas juste par politesse, ça peut d'ailleurs être considéré comme offensant !</p>]]></message>
+        <createdAt>2018-06-03T17:59:52Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6708926675" />
+        <parent dsq:id="3928844372" />
+    </post>
+    <post dsq:id="3929170883">
+        <id />
+        <message><![CDATA[<p>Ah zut, je ne m'en souviens pas ! Tu crois que tu peux retrouver le texte et le mettre ici ?</p><p>En tout cas bravo, tu as trouvé la photo truquée ! On a utilisé un écran de smartphone pour donner un reflet de ciel à l'image.</p>]]></message>
+        <createdAt>2018-06-03T20:52:11Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6708926675" />
+        <parent dsq:id="3928844372" />
+    </post>
+    <post dsq:id="3929175014">
+        <id />
+        <message><![CDATA[<p>Omg ça a l'air tellement bon ! C'était bon la barbaque crue ? J'avais toujours eu du mal à imaginer quand Farah disait qu'elle bouffait du foie d'agneau cru au petit déj. T'as goûté ? C'est bon ?</p>]]></message>
+        <createdAt>2018-06-03T20:56:17Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Timothée Nicolas</name>
+            <isAnonymous>false</isAnonymous>
+            <username>timothenicolas</username>
+        </author>
+        <thread dsq:id="6687556570" />
+    </post>
+    <post dsq:id="3929183304">
+        <id />
+        <message><![CDATA[<p>Je ne savais pas tout ça. Du coup, je viens de taper la requête dans mon moteur de recherche favori et il semble que le sourire russe soit un point d'interrogation pour beaucoup de gens. Me voilà rassuré. :-)</p>]]></message>
+        <createdAt>2018-06-03T21:04:21Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6708926675" />
+        <parent dsq:id="3928984636" />
+    </post>
+    <post dsq:id="3929184358">
+        <id />
+        <message><![CDATA[<p>C'est magnifique et très intéressant ! On a hâte d'en savoir plus !</p>]]></message>
+        <createdAt>2018-06-03T21:05:25Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Timothée Nicolas</name>
+            <isAnonymous>false</isAnonymous>
+            <username>timothenicolas</username>
+        </author>
+        <thread dsq:id="6708926675" />
+    </post>
+    <post dsq:id="3929622765">
+        <id />
+        <message><![CDATA[<p>J'ai seulement goûté et il faut dire que cela a un goût assez fort. Donc je n'irais pas jusqu'à dire que j'ai apprécié. Heureusement que ce n'était pas au petit déjeuner mais au déjeuner chez nous...</p>]]></message>
+        <createdAt>2018-06-04T06:56:43Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6687556570" />
+        <parent dsq:id="3929175014" />
+    </post>
+    <post dsq:id="3934902124">
+        <id />
+        <message><![CDATA[<p>Et voilà que je me retrouve à lire un article sur le levage des pierres dans l'antiquité.... <br>C'est juste wahou votre voyage.<br>Merci :)<br>Pierre</p>]]></message>
+        <createdAt>2018-06-07T20:57:53Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Pierre Guérold</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pierregurold</username>
+        </author>
+        <thread dsq:id="6703528651" />
+    </post>
+    <post dsq:id="3936119769">
+        <id />
+        <message><![CDATA[<p>Trop cool ! Je me demandais qui allait être assez courageux pour cliquer sur le lien. J'ai trouvé ce sujet très intéressant, mais j'ai pas tout compris. Alors j'espère qu'on pourra en reparler quand on sera rentré ! A bientôt !</p>]]></message>
+        <createdAt>2018-06-08T18:11:39Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6703528651" />
+        <parent dsq:id="3934902124" />
+    </post>
+    <post dsq:id="3951778317">
+        <id />
+        <message><![CDATA[<p>Deux jours par endroit, c'est rudement rapide ! Content que vous ayez aimé la découverte du canard laqué. Vous saurez donc comment manger la prochaine fois que vous viendrez dîner...</p>]]></message>
+        <createdAt>2018-06-19T21:40:15Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>ZRC</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_fZ7FWf22E3</username>
+        </author>
+        <thread dsq:id="6741046420" />
+    </post>
+    <post dsq:id="3958486597">
+        <id />
+        <message><![CDATA[<p>Salut Ruo ! Je note donc que tu prévois de nous inviter à dîner du canard de retour en France, ce sera avec grand plaisir ^^<br>Merci pour tous tes conseils tout au long de notre (court) passage en Chine !</p>]]></message>
+        <createdAt>2018-06-24T09:37:13Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6741046420" />
+        <parent dsq:id="3951778317" />
+    </post>
+    <post dsq:id="3960619165">
+        <id />
+        <message><![CDATA[<p>C'est marrant que vous vous soyez retrouvés au Red Lantern ! :) Récemment on a retrouvé un couple de parisiens qu'on avait croisé là-bas et on a reparlé d'un jeune chinois un peu chelou qui trainait tous les soirs à l'auberge, et qui s'intéressait beaucoup aux programmes des uns et des autres ("Vous partez demain ? Vous allez où ?"). Est-ce que vous l'avez rencontré ? :D</p>]]></message>
+        <createdAt>2018-06-25T20:28:29Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6741046420" />
+    </post>
+    <post dsq:id="3960637700">
+        <id />
+        <message><![CDATA[<p>On voit les mecs qui ne lisent que le titre avant de filer aux commentaires ^^</p>]]></message>
+        <createdAt>2018-06-25T20:40:35Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6695191914" />
+        <parent dsq:id="3924775405" />
+    </post>
+    <post dsq:id="3960640713">
+        <id />
+        <message><![CDATA[<p>Coucou Longhui si tu passes par là :)<br>La rue des stands de bouffe à Luoyang : miam. Un des rares endroits où on avait réussi à comprendre ce qu'on commandait :D Apparemment ça s'est mieux passé pour vous !</p>]]></message>
+        <createdAt>2018-06-25T20:42:31Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6753644651" />
+    </post>
+    <post dsq:id="3960644352">
+        <id />
+        <message><![CDATA[<p>Le contenu de l'article n'est qu'on prétexte ! Les commentaires, c'est là que tout se passe !</p>]]></message>
+        <createdAt>2018-06-25T20:44:48Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>pythux</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pythux</username>
+        </author>
+        <thread dsq:id="6695191914" />
+        <parent dsq:id="3960637700" />
+    </post>
+    <post dsq:id="3960646314">
+        <id />
+        <message><![CDATA[<p>C'est donc comme ça que ça s'écrit...</p>]]></message>
+        <createdAt>2018-06-25T20:46:07Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>pythux</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pythux</username>
+        </author>
+        <thread dsq:id="6753759827" />
+    </post>
+    <post dsq:id="3960648325">
+        <id />
+        <message><![CDATA[<p>Heureux d'apprendre que vous n'y êtes pas arrivé à pieds!</p>]]></message>
+        <createdAt>2018-06-25T20:47:26Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>pythux</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pythux</username>
+        </author>
+        <thread dsq:id="6727164403" />
+    </post>
+    <post dsq:id="3960671893">
+        <id />
+        <message><![CDATA[<p>Très impressionnante cette muraille, ça force le respect... Est-ce que vous pouvez vous balader sur n'importe quelle section ? Ou y a-t-il une zone délimitée accessible ?</p>]]></message>
+        <createdAt>2018-06-25T21:03:43Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>pythux</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pythux</username>
+        </author>
+        <thread dsq:id="6741046420" />
+    </post>
+    <post dsq:id="3960936940">
+        <id />
+        <message><![CDATA[<p>Ça commençait bien oui, on a mangé une délicieuse soupe (celle avec le pain à émietter dessus), où le serveur se vantait d'être passé sur CCTV grâce à ce plat !<br>Mais tout s'est écroulé au moment où on a commandé une salade de fruits sur un stand et que la vendeuse l'a allègrement assaisonnée....de mayonnaise ! :'D</p>]]></message>
+        <createdAt>2018-06-26T00:44:52Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Elida</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_65lTcRqujN</username>
+        </author>
+        <thread dsq:id="6753644651" />
+        <parent dsq:id="3960640713" />
+    </post>
+    <post dsq:id="3969719055">
+        <id />
+        <message><![CDATA[<p>Coucou,</p><p>On m'informe à l'instant que les toilettes à la turque seraient en fait originaires de Belgique. Les Turcs n'auraient fait qu'ajouter le trou. Bisous.</p>]]></message>
+        <createdAt>2018-07-01T21:23:03Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>FalafelDeNataDu75</name>
+            <isAnonymous>false</isAnonymous>
+            <username>falafeldenatadu75</username>
+        </author>
+        <thread dsq:id="6753644651" />
+    </post>
+    <post dsq:id="3970534987">
+        <id />
+        <message><![CDATA[<p>La "salade" est un exemple typique d'interprétation culinaire. Mon grand-père en faisait déjà dans mon enfance en disant que c'était un plat occidental.</p>]]></message>
+        <createdAt>2018-07-02T14:35:24Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>ZRC</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_fZ7FWf22E3</username>
+        </author>
+        <thread dsq:id="6753644651" />
+        <parent dsq:id="3960936940" />
+    </post>
+    <post dsq:id="3981403904">
+        <id />
+        <message><![CDATA[<p>Comme ça se prononce ! ;)</p>]]></message>
+        <createdAt>2018-07-10T03:43:02Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Elida</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_65lTcRqujN</username>
+        </author>
+        <thread dsq:id="6753759827" />
+        <parent dsq:id="3960646314" />
+    </post>
+    <post dsq:id="3981404892">
+        <id />
+        <message><![CDATA[<p>Avec la mayo ? 😱</p>]]></message>
+        <createdAt>2018-07-10T03:44:18Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Elida</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_65lTcRqujN</username>
+        </author>
+        <thread dsq:id="6753644651" />
+        <parent dsq:id="3970534987" />
+    </post>
+    <post dsq:id="3981408416">
+        <id />
+        <message><![CDATA[<p>Je pense qu'il y a des sections trop dangereuses pour y accéder (elle est quasiment enfouie à certains endroits). Après y a les sections non rénovées comme celle où on est allés, qui méritent amplement l'investissement en temps et en énergie pour y arriver. Et puis il y a les sections proches de Pékin, toutes rénovées, mais qu'il faut partager avec des dizaines de milliers de touristes quotidiens, ce qui casse un peu le charme...</p>]]></message>
+        <createdAt>2018-07-10T03:48:59Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Elida</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_65lTcRqujN</username>
+        </author>
+        <thread dsq:id="6741046420" />
+        <parent dsq:id="3960671893" />
+    </post>
+    <post dsq:id="3981408447">
+        <id />
+        <message><![CDATA[<p>Merci, cher FalafelDeNataDu75. Nous avons soumis ton information au guide volontaire du musée d'Edo Tokyo, qui était persuadé jusque là que c'était les japonais qui avaient inventé les toilettes à la turque. Il nous a promis de mener des nouvelles recherches pour élucider ce mystère !</p>]]></message>
+        <createdAt>2018-07-10T03:49:02Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6753644651" />
+        <parent dsq:id="3969719055" />
+    </post>
+    <post dsq:id="3981408897">
+        <id />
+        <message><![CDATA[<p>Nop, on n'a pas eu cette chance, mais on a eu le même modèle à l'auberge à Luoyang ^^</p>]]></message>
+        <createdAt>2018-07-10T03:49:39Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Elida</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_65lTcRqujN</username>
+        </author>
+        <thread dsq:id="6741046420" />
+        <parent dsq:id="3960619165" />
+    </post>
+    <post dsq:id="3981409511">
+        <id />
+        <message><![CDATA[<p>Puisqu'on te dit qu'on est arrivés en avion... :-D</p>]]></message>
+        <createdAt>2018-07-10T03:50:32Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6727164403" />
+        <parent dsq:id="3960648325" />
+    </post>
+    <post dsq:id="3981551113">
+        <id />
+        <message><![CDATA[<p>Oui, avec une sorte de mayo.</p>]]></message>
+        <createdAt>2018-07-10T07:32:28Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>ZRC</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_fZ7FWf22E3</username>
+        </author>
+        <thread dsq:id="6753644651" />
+        <parent dsq:id="3981404892" />
+    </post>
+    <post dsq:id="4002396244">
+        <id />
+        <message><![CDATA[<p>Ça a vraiment l'air top le Japon, les châteaux sont superbes ! Les noodles cups ont fini de me convaincre :D</p>]]></message>
+        <createdAt>2018-07-23T15:30:14Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6810510720" />
+    </post>
+    <post dsq:id="4003121377">
+        <id />
+        <message><![CDATA[<p>Tu n'es pas le seul à être convaincu par les pâtes instantanées 😉<br>Le musée propose d'ailleurs en plus de l'atelier décoration un cours de fabrication des ramen qui est tellement populaire qu'il faut réserver un mois à l'avance (prochain place dispo actuellement : septembre) ! <a href="https://www.cupnoodles-museum.jp/reservation/osaka_ikeda/" rel="nofollow noopener" title="https://www.cupnoodles-museum.jp/reservation/osaka_ikeda/">https://www.cupnoodles-muse...</a></p>]]></message>
+        <createdAt>2018-07-23T23:39:08Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6810510720" />
+        <parent dsq:id="4002396244" />
+    </post>
+    <post dsq:id="4015081277">
+        <id />
+        <message><![CDATA[<p>Mais, je n'aperçois pas ces fameux koalas que vous avez vus !<br>Et je me permets de signaler que la star de la photo 2 n'est pas un végétal...</p>]]></message>
+        <createdAt>2018-07-31T16:13:52Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>ZRC</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_fZ7FWf22E3</username>
+        </author>
+        <thread dsq:id="6827540548" />
+    </post>
+    <post dsq:id="4015943723">
+        <id />
+        <message><![CDATA[<p>Salut Ruocong ! Quelle lecture attentive ! Concernant les koalas, il semblerait qu'Elida prépare un billet spécial sur la faune australienne. Peut être y figureront ils ? Quant au végétal qui n'en est pas un, je serais ravi que tu éclaire ma lanterne proverbiale. C'est quoi ?</p>]]></message>
+        <createdAt>2018-08-01T02:24:32Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6827540548" />
+        <parent dsq:id="4015081277" />
+    </post>
+    <post dsq:id="4016455855">
+        <id />
+        <message><![CDATA[<p>Il me semble que ce sont des champignons (du règne des Fungi, ou Mycètes), non ? Visuellement les recherches semblent pointer vers Trametes versicolor.</p>]]></message>
+        <createdAt>2018-08-01T12:32:26Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>ZRC</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_fZ7FWf22E3</username>
+        </author>
+        <thread dsq:id="6827540548" />
+        <parent dsq:id="4015943723" />
+    </post>
+    <post dsq:id="4018099983">
+        <id />
+        <message><![CDATA[<p>Ça y ressemble en effet ! Je ne savais pas que les champignons étaient un règne à part, voilà pour ma culture générale...</p>]]></message>
+        <createdAt>2018-08-02T10:41:36Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6827540548" />
+        <parent dsq:id="4016455855" />
+    </post>
+    <post dsq:id="4026473975">
+        <id />
+        <message><![CDATA[<p>Je dirais que le mont éléphant ressemble à un éléphant, mais ça paraît trop simple o_O<br>Vous dormiez où sur la route ? En auberge ?</p>]]></message>
+        <createdAt>2018-08-07T11:16:57Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6827540548" />
+    </post>
+    <post dsq:id="4028199808">
+        <id />
+        <message><![CDATA[<p>Haha ben on est d'accord avec toi pour l'explication, même si on a pas de source plus fiable !<br>On a pris des locations Airbnb et une auberge de jeunesse sur le chemin.</p>]]></message>
+        <createdAt>2018-08-08T08:01:14Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6827540548" />
+        <parent dsq:id="4026473975" />
+    </post>
+    <post dsq:id="4039310714">
+        <id />
+        <message><![CDATA[<p>Emu, en bon français, c'est plutôt émeu. Mettons ça sur le compte de l'émotion !<br>Je suggérerais bien le développement d'un script Python pour la reconnaissance automatique des volatiles à partir d'une base de données, mais j'aurais trop peur que les pythons bouffent les oiseaux, c'est bien connu.</p>]]></message>
+        <createdAt>2018-08-14T10:47:00Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Franck Mazas</name>
+            <isAnonymous>false</isAnonymous>
+            <username>franckmazas</username>
+        </author>
+        <thread dsq:id="6846800535" />
+    </post>
+    <post dsq:id="4039314969">
+        <id />
+        <message><![CDATA[<p>La reconversion en coastal engineer me paraît inévitable.</p>]]></message>
+        <createdAt>2018-08-14T10:50:37Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Franck Mazas</name>
+            <isAnonymous>false</isAnonymous>
+            <username>franckmazas</username>
+        </author>
+        <thread dsq:id="6827540548" />
+    </post>
+    <post dsq:id="4042998854">
+        <id />
+        <message><![CDATA[<p>Haha ce n'est pourtant pas la seule possibilité...</p>]]></message>
+        <createdAt>2018-08-16T07:35:47Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6827540548" />
+        <parent dsq:id="4039314969" />
+    </post>
+    <post dsq:id="4043002021">
+        <id />
+        <message><![CDATA[<p>Aaaah c'est pour ce genre de précision qu'on apprécie tes commentaires Franck ! Merci, je vais essayer de corriger ça. Quant au script python, il va devoir attendre je suis encore en vacances pour 3 mois :)</p>]]></message>
+        <createdAt>2018-08-16T07:39:41Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6846800535" />
+        <parent dsq:id="4039310714" />
+    </post>
+    <post dsq:id="4044973854">
+        <id />
+        <message><![CDATA[<p>Vous avez su capturer la splendeur de ces paysages et lieux chers à Gauguin (même si sa vie y avait l'air plutôt mouvementée) ! On (je) rêve maintenant de vos futures photos de Voie Lactée illuminant le ciel nocturne.</p><p>En parlant de raie pastenague, il y a justement des campagnes de sensibilisation en ce moment sur les plages méditerranéennes pour que les baigneurs évitent de se faire piquer.</p>]]></message>
+        <createdAt>2018-08-17T09:28:33Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>ZRC</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_fZ7FWf22E3</username>
+        </author>
+        <thread dsq:id="6858178959" />
+    </post>
+    <post dsq:id="4064491528">
+        <id />
+        <message><![CDATA[<p>Merci pour le compliment ! La vie de Gauguin semble avoir été une sacrée aventure. On trouve d'ailleurs des biographies avec de belles illustrations un peu partout dans les magasins de souvenirs.</p>]]></message>
+        <createdAt>2018-08-28T12:37:54Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6858178959" />
+        <parent dsq:id="4044973854" />
+    </post>
+    <post dsq:id="4067254297">
+        <id />
+        <message><![CDATA[<p>Le truc ou tu sêches c'est pas une variété de héron ?<br>Ils sont trop mignons les wallabies :-)</p>]]></message>
+        <createdAt>2018-08-29T20:17:50Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Didier VEZINET</name>
+            <isAnonymous>false</isAnonymous>
+            <username>didiervezinet</username>
+        </author>
+        <thread dsq:id="6846800535" />
+    </post>
+    <post dsq:id="4072906284">
+        <id />
+        <message><![CDATA[<p>Des hérons... possible !<br>C'est sûr que les wallabies et les kangourous, on les aurait bien approchés de plus près. Mais ils sont trop timides !</p>]]></message>
+        <createdAt>2018-09-02T00:07:21Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6846800535" />
+        <parent dsq:id="4067254297" />
+    </post>
+    <post dsq:id="4098056544">
+        <id />
+        <message><![CDATA[<p>Super belles ces photos en effet 😍<br>Les salars et la vallée de la Lune... je prends mon billet 😜</p>]]></message>
+        <createdAt>2018-09-16T08:55:02Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6912768754" />
+    </post>
+    <post dsq:id="4098838318">
+        <id />
+        <message><![CDATA[<p>Haha si il te reste des vacances à prendre, ça vaut le coup en effet ! La vallée de la Lune c'est vraiment très beau...</p>]]></message>
+        <createdAt>2018-09-16T19:40:39Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6912768754" />
+        <parent dsq:id="4098056544" />
+    </post>
+    <post dsq:id="4099713225">
+        <id />
+        <message><![CDATA[<p>Malheureux, évitez de dire "pacifier la région des rebelles indigènes" à de vrais Chiliens ! C'est plutôt "envahir la région et dominer les peuples indigènes"... D'ailleurs, par rapport à notre discussion sur l'origine du merquén/merken, ça vient en fait du mapuche, pas des colons allemands.</p><p>Photo 48 : Whooaaa<br>Photo 52 : Je dis vicuña ! Je crois que c'est que j'avais vu aussi sur les hauts plateaux et l'alpaca est plutôt laineux.<br>Et je me permets d'insister, le Sud du pays vaut tout autant le détour !</p>]]></message>
+        <createdAt>2018-09-17T10:47:12Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>ZRC</name>
+            <isAnonymous>false</isAnonymous>
+            <username>disqus_fZ7FWf22E3</username>
+        </author>
+        <thread dsq:id="6912768754" />
+    </post>
+    <post dsq:id="4101761512">
+        <id />
+        <message><![CDATA[<p>Effectivement le mot pacifier vient directement du point de vue des conquérants, ce qui n'était pas forcément notre intention. L'histoire est malheureusement écrite par le vainqueur...<br>Tu remportes le premier prix de notre challenge Llama pour ton identification réussie !</p>]]></message>
+        <createdAt>2018-09-18T12:49:09Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6912768754" />
+        <parent dsq:id="4099713225" />
+    </post>
+    <post dsq:id="4125491289">
+        <id />
+        <message><![CDATA[<p>Je vois qu'on a photographié les verres de vin vides ! Difficile à croire :)</p>]]></message>
+        <createdAt>2018-10-02T17:34:44Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Thibaud</name>
+            <isAnonymous>false</isAnonymous>
+            <username>forthib</username>
+        </author>
+        <thread dsq:id="6924405594" />
+    </post>
+    <post dsq:id="4128275825">
+        <id />
+        <message><![CDATA[<p>Sans doute une erreur de timing pour la photo ;-)</p>]]></message>
+        <createdAt>2018-10-04T07:16:13Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6924405594" />
+        <parent dsq:id="4125491289" />
+    </post>
+    <post dsq:id="4137144827">
+        <id />
+        <message><![CDATA[<p>En même temps, on leur avait bien dit qu'il fallait pas s'y fier...</p>]]></message>
+        <createdAt>2018-10-09T19:38:22Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>pythux</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pythux</username>
+        </author>
+        <thread dsq:id="6912768754" />
+        <parent dsq:id="4101761512" />
+    </post>
+    <post dsq:id="4137147391">
+        <id />
+        <message><![CDATA[<p>La vallée de la Lune, vous y êtes allé avec la Polo ?</p>]]></message>
+        <createdAt>2018-10-09T19:39:55Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>pythux</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pythux</username>
+        </author>
+        <thread dsq:id="6912768754" />
+        <parent dsq:id="4098838318" />
+    </post>
+    <post dsq:id="4137173260">
+        <id />
+        <message><![CDATA[<p>Chili en verlant ça fait Lichi...</p>]]></message>
+        <createdAt>2018-10-09T19:56:01Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>pythux</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pythux</username>
+        </author>
+        <thread dsq:id="6924405594" />
+    </post>
+    <post dsq:id="4137174055">
+        <id />
+        <message><![CDATA[<p>C'est étrange, je me serais attendu à voir une Synagogue à Arquipa !</p>]]></message>
+        <createdAt>2018-10-09T19:56:30Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>pythux</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pythux</username>
+        </author>
+        <thread dsq:id="6924405594" />
+    </post>
+    <post dsq:id="4137175104">
+        <id />
+        <message><![CDATA[<p>Lorsque vous reviendrez, n'oubliez pas de traverser le Titicaca en Tutu kaki !</p>]]></message>
+        <createdAt>2018-10-09T19:57:09Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>pythux</name>
+            <isAnonymous>false</isAnonymous>
+            <username>pythux</username>
+        </author>
+        <thread dsq:id="6924405594" />
+    </post>
+    <post dsq:id="4142131482">
+        <id />
+        <message><![CDATA[<p>Oui, mais attention dans les virages, car ça turne ! (je crois que c'est copyright Franck mais bon)</p>]]></message>
+        <createdAt>2018-10-12T19:53:15Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6912768754" />
+        <parent dsq:id="4137147391" />
+    </post>
+    <post dsq:id="4142135354">
+        <id />
+        <message><![CDATA[<p>Ça faisait partie des plans initiaux mais on était à court de temps :-(</p>]]></message>
+        <createdAt>2018-10-12T19:55:58Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6924405594" />
+        <parent dsq:id="4137175104" />
+    </post>
+    <post dsq:id="4142137620">
+        <id />
+        <message><![CDATA[<p>Et pourtant on en a pas vue.</p>]]></message>
+        <createdAt>2018-10-12T19:57:31Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6924405594" />
+        <parent dsq:id="4137174055" />
+    </post>
+    <post dsq:id="4142138964">
+        <id />
+        <message><![CDATA[<p>Ça non plus on en a pas vus beaucoup.</p>]]></message>
+        <createdAt>2018-10-12T19:58:25Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Florian LB</name>
+            <isAnonymous>false</isAnonymous>
+            <username>flothesof</username>
+        </author>
+        <thread dsq:id="6924405594" />
+        <parent dsq:id="4137173260" />
+    </post>
+    <post dsq:id="4166282063">
+        <id />
+        <message><![CDATA[<p>So nice to read and see Beautiful British Columbia through your eyes! It was such joy to have you and Elida here for two weeks from the moment you landed and I drove the car without the keys until you had to hop in a car and drive us and our friends to the Belgian Restaurant Chambar ( an institution here in Vancouver for years) and we made you join us before you headed back to the house...and all the wonderful guitar lessons and life lessons you ended up teaching our boys by them just hanging out with you! We will never forget those beautiful days and we still talk about you two! Now on this blog you were too modest in not writing more about the treacherous Grouse Grind and you must have a photo from the top after you finished  the straight vertical climb!  Also I wish we had a photo of the full turkey on the Thanksgiving photo 😄 <br>As you say it was a shame that we didn’t get the chance to go to the island and the Juan de Fuca passage , but that’s for your next time! Start planning! Bon Voyage pour le reste de votre adventures...Love from the Priatel’s</p>]]></message>
+        <createdAt>2018-10-28T00:40:10Z</createdAt>
+        <isDeleted>false</isDeleted>
+        <isSpam>false</isSpam>
+        <author>
+            <name>Rola Priatel</name>
+            <isAnonymous>false</isAnonymous>
+            <username>rola_priatel</username>
+        </author>
+        <thread dsq:id="7000727802" />
+    </post>
+</disqus>

@@ -1,14 +1,14 @@
 \PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
 \PassOptionsToPackage{hyphens}{url}
 %
-\documentclass[12pt,a4paper,twopage]{article}
+\documentclass[11pt,a4paper,twopage]{article}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
+  \usepackage[T1,T2A]{fontenc}
+  \usepackage[utf8x]{inputenc}
   \usepackage{textcomp} % provides euro and other symbols
 \else % if luatex or xelatex
   \usepackage{unicode-math}
@@ -29,9 +29,9 @@
 }
 \usepackage{hyperref}
 \hypersetup{
-            pdftitle={Des kangourous, mais pas que !},
-            pdfauthor={Elida},
-            pdfkeywords={Australie},
+            pdftitle={Le livre du tour du monde.},
+            pdfauthor={Florian, Elida},
+            pdfkeywords={Voyage autour du monde},
             pdfborder={0 0 0},
             breaklinks=true}
 \urlstyle{same}  % don't use monospace font for urls
@@ -63,10 +63,26 @@
 \def\fps@figure{htbp}
 \makeatother
 
+
+
 % further custom stuff
 \usepackage[margin=3cm]{geometry}
+\usepackage{coloremoji}
 \usepackage[french]{babel}
-\usepackage[whole]{bxcjkjatype}
+\usepackage{CJKutf8}
+
+\DeclareUnicodeCharacter{12371}{こ}
+\DeclareUnicodeCharacter{12435}{ん}
+\DeclareUnicodeCharacter{12395}{に}
+\DeclareUnicodeCharacter{12385}{ち}
+\DeclareUnicodeCharacter{12399}{は}
+
+% header stuff
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE,RO]{\textsl{\rightmark}}
+\fancyhead[LO,RE]{\textsl{\leftmark}}
+\fancyfoot[C]{\thepage}
 
 % real book starts here
 \title{Le livre du tour du monde}
@@ -75,38 +91,73 @@
 \begin{document}
 \maketitle
 \tableofcontents
+
 \include{bonjour-monde}
+
 \include{photographie-en-voyage}
+
 \include{pont-Occident-Orient}
+
 \include{bonjour-du-village}
+
 \include{elections-cedres}
+
 \include{tripoli-beyrouth-qadisha-saida}
+
 \include{manger-au-liban}
+
 \include{au-revoir-liban}
+
 \include{arrivee-en-russie}
+
 \include{crapahutages-moscova}
+
 \include{saint-petersbourg}
+
 \include{au-revoir-russie}
+
 \include{empire-du-milieu}
+
 \include{chine-pas-de-course}
+
 \include{impressions-chinoises}
+
 \include{konnichiwa}
+
 \include{quelques-jours-kyushu}
+
 \include{tradition-gratte-ciels}
+
 \include{kyoto-hiroshima}
+
 \include{nagano-osaka}
+
 \include{arrivee-australie}
+
 \include{une-semaine-sydney}
+
 \include{great-ocean-road}
+
 \include{animaux-australie}
+
 \include{polynesie-tahiti}
+
 \include{polynesie-iles-sous-le-vent}
+
 \include{mysteres-rapa-nui}
+
 \include{santiago-desert-atacama}
+
 \include{perou-machu-picchu}
+
 \include{carthagene-des-indes}
+
 \include{excursions-mexico}
+
 \include{immersion-culturelle-mexico}
+
 \include{vancouver-colombie-britannique}
+
 \include{quebec-retour-origines}
+
 \end{document}

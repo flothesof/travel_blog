@@ -117,11 +117,12 @@ pelican-plugins/
 output-tex/
 
 # unwanted latex stuff
-blog-book/*.aux
-blog-book/*.log
-blog-book/*.bbl
-blog-book/*.toc
-blog-book/*.synctex.gz
-blog-book/*.out
+*.aux
+*.log
+*.bbl
+*.toc
+*.synctex.gz
+*.out
 blog-book/book.pdf
-
+blog-book/comments/*.pdf
+blog-book/comments/*.html
