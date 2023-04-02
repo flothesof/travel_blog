@@ -15,7 +15,7 @@ crossorigin=""></script>
 		mymap.zoomControl.setPosition('topright');
 		var layer = new L.StamenTileLayer("watercolor");
 		mymap.addLayer(layer);
-		var destinations = [[48.85661, 2.35222, 'Paris, départ de notre voyage !<br><a href="/tag/avant-le-voyage.html">#avant le voyage</a>'],
+		var destinations = [[48.85661, 2.35222, 'Paris, départ et arrivée de notre voyage.<br><a href="/tag/avant-le-voyage.html">#avant le voyage</a> <a href="/tag/apres-le-voyage.html">#après le voyage</a>'],
 							[33.89379, 35.50177, 'Beyrouth et le Liban<br><a href="/tag/liban.html">#Liban</a>'],
 							[55.75582, 37.61729, 'Moscou<br><a href="/tag/russie.html">#Russie</a>'],
 							[59.93428, 30.33509, 'Saint-Pétersbourg<br><a href="/tag/russie.html">#Russie</a>'],
@@ -65,7 +65,7 @@ crossorigin=""></script>
 		}
 		
 		// setting the right location and panning the map
-		current_location = 22;
+		current_location = 0;
 		markers[current_location].openPopup();
 		mymap.panTo(new L.LatLng(destinations[current_location][0], destinations[current_location][1]));
 	</script>

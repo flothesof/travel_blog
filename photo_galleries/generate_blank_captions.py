@@ -16,7 +16,7 @@ if __name__ == '__main__':
 				existing_captions = dict((l[:l.find(':')], l[l.find(':')+1:]) for l in lines)
 				# write new file
 				with open(path_to_captions, 'w') as f:
-					for fname in os.listdir(folder_name):
+					for fname in sorted(os.listdir(folder_name)):
 						if fname.lower().endswith('jpg') or fname.lower().endswith('jpeg'):
 							if fname in existing_captions:
 								f.write("{}:{}".format(fname, existing_captions[fname]))
@@ -24,7 +24,7 @@ if __name__ == '__main__':
 								f.write("{}:\n".format(fname))
 			else:
 				with open(path_to_captions, 'w') as f:
-					for fname in os.listdir(folder_name):
+					for fname in sorted(os.listdir(folder_name)):
 						if fname.lower().endswith('jpg') or fname.lower().endswith('jpeg'):
 							f.write("{}:\n".format(fname))
 				

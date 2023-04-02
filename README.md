@@ -13,13 +13,20 @@ git clone https://github.com/flothesof/travel_blog.git
 
 I think at least this:
 ```shell
-pip install "pelican<4" markdown piexif pillow
+pip install "pelican<4" markdown piexif pillow beautifulsoup4
 ```
 
-## Compile translations
+## Compile translations (done only once)
 ```shell
 cd theme
 ./translation.sh compile
+```
+
+## Extract exif data (done only once per gallery)
+
+```shell
+cd photo_galleries
+python generate_exif_data.py
 ```
 
 ## Build the blog
